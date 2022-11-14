@@ -1,0 +1,5 @@
+C:\games\VisualStudio\Lab 5\Lab 5.2\obj\Debug\net6.0\Lab 5.2.csproj.AssemblyReference.cache
+C:\games\VisualStudio\Lab 5\Lab 5.2\obj\Debug\net6.0\Lab 5.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\games\VisualStudio\Lab 5\Lab 5.2\obj\Debug\net6.0\Lab 5.2.AssemblyInfoInputs.cache
+C:\games\VisualStudio\Lab 5\Lab 5.2\obj\Debug\net6.0\Lab 5.2.AssemblyInfo.cs
+C:\games\VisualStudio\Lab 5\Lab 5.2\obj\Debug\net6.0\Lab 5.2.csproj.CoreCompileInputs.cache
